@@ -1,0 +1,40 @@
+# ── Dependencies ──────────────────────────────────────────────
+/node_modules
+
+# ── Build outputs ─────────────────────────────────────────────
+/dist
+/tmp
+/out-tsc
+
+# cdn/ is tracked (jsdelivr serves from it) — do NOT ignore it
+
+# ── Environment & secrets ─────────────────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ── IDE / Editor ──────────────────────────────────────────────
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# ── OS files ──────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ── Logs ──────────────────────────────────────────────────────
+*.log
+npm-debug.log*
+
+# ── Misc ──────────────────────────────────────────────────────
+*.tmp
+*.bak
+.cache
+/coverage
+
+# ── Internal files ─────────────────────────────────────────────────
+/DOCS/Internal/*

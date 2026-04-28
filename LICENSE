@@ -1,0 +1,90 @@
+OkDoc AI Plugin SDK — Proprietary Software License Agreement
+
+Copyright (c) 2025-2026 OkDoc AI. All rights reserved.
+
+This software and the accompanying files (collectively, the "Software") are
+the proprietary and confidential property of OkDoc AI ("Licensor") and are
+protected by copyright laws and international treaty provisions.
+
+1. GRANT OF LICENSE
+
+   Subject to the terms of this Agreement, Licensor grants You a non-exclusive,
+   non-transferable, revocable license to:
+
+   (a) install and use the Software, in unmodified form, solely for the
+       purpose of developing, building, and distributing plugins that
+       interoperate with OkDoc AI products and services; and
+
+   (b) include unmodified copies of the Software (or portions thereof emitted
+       by the Software's documented public APIs) as a runtime dependency in
+       Your own plugin distributions.
+
+2. RESTRICTIONS
+
+   You may NOT, and may not permit any third party to:
+
+   (a) copy, modify, adapt, translate, or create derivative works of the
+       Software, in whole or in part, except as expressly permitted in
+       Section 1;
+
+   (b) reverse engineer, decompile, disassemble, deobfuscate, or otherwise
+       attempt to derive the source code, underlying ideas, algorithms,
+       structure, or organization of the Software, except to the extent such
+       restriction is expressly prohibited by applicable law;
+
+   (c) redistribute, sublicense, sell, rent, lease, or otherwise transfer
+       the Software, except as part of a plugin authored by You that uses
+       the Software as a runtime dependency;
+
+   (d) remove, alter, or obscure any proprietary notices (including copyright
+       and trademark notices) on or in the Software;
+
+   (e) use the Software to develop a product or service that competes with
+       OkDoc AI products or services; or
+
+   (f) use the Software in violation of any applicable law or regulation.
+
+3. OWNERSHIP
+
+   The Software is licensed, not sold. Licensor retains all right, title,
+   and interest in and to the Software, including all intellectual property
+   rights therein. No rights are granted to You other than those expressly
+   set forth in this Agreement.
+
+4. TERMINATION
+
+   This Agreement is effective until terminated. Your rights under this
+   Agreement will terminate automatically without notice if You fail to
+   comply with any term of this Agreement. Upon termination, You shall
+   cease all use of the Software and destroy all copies in Your possession.
+
+5. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+   LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN
+   AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. LIMITATION OF LIABILITY
+
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL
+   LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+   OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUE, WHETHER INCURRED
+   DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER
+   INTANGIBLE LOSSES, ARISING FROM OR RELATING TO YOUR USE OF THE SOFTWARE.
+
+7. GOVERNING LAW
+
+   This Agreement shall be governed by and construed in accordance with the
+   laws applicable to OkDoc AI's principal place of business, without regard
+   to its conflict-of-laws provisions.
+
+8. CONTACT
+
+   For licensing inquiries beyond the scope of this Agreement, contact
+   OkDoc AI at https://okdoc.ai.
+
+By installing, copying, or otherwise using the Software, You acknowledge that
+You have read this Agreement, understand it, and agree to be bound by its terms.
